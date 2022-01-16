@@ -1,6 +1,39 @@
 body{
-    font-weight: normal;
-    font-size: medium;
-    background-color: red;
+    margin: 200px 300px 200px 300px ; 
+    background: #0e0e0e;
+    height: 100% 
+/* .data-new-gr-c-s-check-loaded="14.1044.0 */
+
+    
+}
+img{
+    margin: auto;
+    cursor: zoom-in;
+    background-color: hsl(0, 0%, 90%);
+    transition: background-color 600ms;
+    
 
 }
+/* 
+element.style {
+    -webkit-user-select: none;
+    margin: auto;
+    cursor: zoom-in;
+    background-color: hsl(0, 0%, 90%);
+    transition: background-color 300ms;
+}
+img[Attributes] {
+    width: 725px;
+    aspect-ratio: auto 725 / 529;
+    height: 529px;
+}
+element.style {
+    margin: 0px;
+    background: #0e0e0e;
+    height: 100%;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+} */
